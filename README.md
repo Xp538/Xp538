@@ -18,17 +18,14 @@ Welcome to my GitHub profile!
 
 📫 You can reach me via email at [patelsujal538@gmail.com](patelsujal538@gmail.com) 
 
-😄 Pronouns: [He]
-
-⚡ Fun fact: [hehehehehehe!!!!]
 
 ## Technologies I Work With
 
 Here are some of the technologies and tools I frequently use:
 
 - HTML5
-- CSS3 / SASS
-- JavaScript (including ES6+)
+- CSS3
+- JavaScript
 - React.js
 - Node.js
 - Express.js
